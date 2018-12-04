@@ -1,0 +1,52 @@
+[
+	{
+		"Time Zone" : "Central European Time",
+		"Abbreviation" : "CET",
+		"Time Difference" : 1
+	},
+	{
+		"Time Zone" : "China Standard Time",
+		"Abbreviation" : "CST",
+		"Time Difference" : 8
+	},
+	{
+		"Time Zone" : "Eastern Standard Time",
+		"Abbreviation" : "EST",
+		"Time Difference" : -5
+	},
+	{
+		"Time Zone" : "GMT Standard Time",
+		"Abbreviation" : "GMT",
+		"Time Difference" : 0
+	},
+	{
+		"Time Zone" : "Pacific Standard Time",
+		"Abbreviation" : "PST",
+		"Time Difference" : -8
+	},
+	{
+		"Time Zone" : "Atlantic Standard Time",
+		"Abbreviation" : "AST",
+		"Time Difference" : -4
+	},
+	{
+		"Time Zone" : "Central Standard Time",
+		"Abbreviation" : "CST",
+		"Time Difference" : -6
+	},
+	{
+		"Time Zone" : "Mountain Standard Time",
+		"Abbreviation" : "MST",
+		"Time Difference" : -7
+	},
+	{
+		"Time Zone" : "Eastern European Time",
+		"Abbreviation" : "EET",
+		"Time Difference" : 2
+	},
+	{
+		"Time Zone" : "New Zealand Standard Time",
+		"Abbreviation" : "NZST",
+		"Time Difference" : 12
+	}
+]

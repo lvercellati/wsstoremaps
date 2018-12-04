@@ -1,0 +1,177 @@
+[
+	{
+		"Store" : "HONGKONG IFC",
+		"City" : "Hong Kong",
+		"Province/State" : "Hong Kong",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "HONGKONG HARBOUR CITY",
+		"City" : "Hong Kong",
+		"Province/State" : "Hong Kong",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "HONGKONG PACIFIC PLACE",
+		"City" : "Hong Kong",
+		"Province/State" : "Hong Kong",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "HONGKONG LANDMARK ATRIUM",
+		"City" : "Hong Kong",
+		"Province/State" : "Hong Kong",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "HONGKONG ELEMENTS",
+		"City" : "Hong Kong",
+		"Province/State" : "Hong Kong",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "MACAU ONE CENTRAL",
+		"City" : "Macau",
+		"Province/State" : "Macau",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "MACAU WYNN",
+		"City" : "Macau",
+		"Province/State" : "Macau",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "SHANGHAI PLAZA 66 MAN",
+		"City" : "Shanghai",
+		"Province/State" : "Shanghai Municipality",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "SHANGHAI PLAZA 66 WOMAN",
+		"City" : "Shanghai",
+		"Province/State" : "Shanghai Municipality",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "BEIJING SHIN KONG PLACE 1F",
+		"City" : "Beijing",
+		"Province/State" : "Beijing Municipality",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "BEIJING SHIN KONG PLACE 2F",
+		"City" : "Beijing",
+		"Province/State" : "Beijing Municipality",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "BEIJING SHIN KONG PLACE 4F",
+		"City" : "Beijing",
+		"Province/State" : "Beijing Municipality",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "BEIJING SHIN KONG PLACE 5F",
+		"City" : "Beijing",
+		"Province/State" : "Beijing Municipality",
+		"Country" : "China",
+		"Continent" : "Asia"
+	},
+	{
+		"Store" : "NEW YORK, MADISON",
+		"City" : "New York City",
+		"Province/State" : "New York",
+		"Country" : "United States",
+		"Continent" : "North America"
+	},
+	{
+		"Store" : "SAN FRANCISCO, UNION SQUARE",
+		"City" : "San Francisco",
+		"Province/State" : "California",
+		"Country" : "United States",
+		"Continent" : "North America"
+	},
+	{
+		"Store" : "LONDON BOND STREET",
+		"City" : "London",
+		"Province/State" : "Greater London",
+		"Country" : "United Kingdom",
+		"Continent" : "Europe"
+	},
+	{
+		"Store" : "LONDON SLOANE STREET",
+		"City" : "London",
+		"Province/State" : "Greater London",
+		"Country" : "United Kingdom",
+		"Continent" : "Europe"
+	},
+	{
+		"Store" : "PARIS MONTAIGNE",
+		"City" : "Paris",
+		"Province/State" : "Ile-de-France",
+		"Country" : "France",
+		"Continent" : "Europe"
+	},
+	{
+		"Store" : "PARIS FAUBOURG",
+		"City" : "Paris",
+		"Province/State" : "Ile-de-France",
+		"Country" : "France",
+		"Continent" : "Europe"
+	},
+	{
+		"Store" : "ROME VIA CONDOTTI",
+		"City" : "Rome",
+		"Province/State" : "Lazio",
+		"Country" : "Italy",
+		"Continent" : "Europe"
+	},
+	{
+		"Store" : "MONTE-CARLO ALLÉE FRANÇOIS BLANC",
+		"City" : "Monaco",
+		"Province/State" : "Monaco",
+		"Country" : "Monaco",
+		"Continent" : "Europe"
+	},
+	{
+		"Store" : "GENEVE",
+		"City" : "Geneve",
+		"Province/State" : "Geneve",
+		"Country" : "Switzerland",
+		"Continent" : "Europe"
+	},
+	{
+		"Store" : "MILAN MONTENAPOLEONE",
+		"City" : "Milan",
+		"Province/State" : "Lombardia",
+		"Country" : "Italy",
+		"Continent" : "Europe"
+	},
+	{
+		"Store" : "ZURICH",
+		"City" : "Zurich",
+		"Province/State" : "Zurich",
+		"Country" : "Switzerland",
+		"Continent" : "Europe"
+	},
+	{
+		"Store" : "BARCELONA",
+		"City" : "Barcelona",
+		"Province/State" : "Catalonia",
+		"Country" : "Spain",
+		"Continent" : "Europe"
+	}
+]
