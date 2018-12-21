@@ -1,5 +1,6 @@
 [
 	{
+	    "Customer" : "LoroPiana",
 		"Store" : "HONGKONG IFC",
 		"City" : "Hong Kong",
 		"Province/State" : "Hong Kong",
@@ -7,6 +8,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "HONGKONG HARBOUR CITY",
 		"City" : "Hong Kong",
 		"Province/State" : "Hong Kong",
@@ -14,6 +16,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "HONGKONG PACIFIC PLACE",
 		"City" : "Hong Kong",
 		"Province/State" : "Hong Kong",
@@ -21,6 +24,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "HONGKONG LANDMARK ATRIUM",
 		"City" : "Hong Kong",
 		"Province/State" : "Hong Kong",
@@ -28,6 +32,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "HONGKONG ELEMENTS",
 		"City" : "Hong Kong",
 		"Province/State" : "Hong Kong",
@@ -35,6 +40,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "MACAU ONE CENTRAL",
 		"City" : "Macau",
 		"Province/State" : "Macau",
@@ -42,6 +48,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "MACAU WYNN",
 		"City" : "Macau",
 		"Province/State" : "Macau",
@@ -49,6 +56,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "SHANGHAI PLAZA 66 MAN",
 		"City" : "Shanghai",
 		"Province/State" : "Shanghai Municipality",
@@ -56,6 +64,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "SHANGHAI PLAZA 66 WOMAN",
 		"City" : "Shanghai",
 		"Province/State" : "Shanghai Municipality",
@@ -63,6 +72,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "BEIJING SHIN KONG PLACE 1F",
 		"City" : "Beijing",
 		"Province/State" : "Beijing Municipality",
@@ -70,6 +80,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "BEIJING SHIN KONG PLACE 2F",
 		"City" : "Beijing",
 		"Province/State" : "Beijing Municipality",
@@ -77,6 +88,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "BEIJING SHIN KONG PLACE 4F",
 		"City" : "Beijing",
 		"Province/State" : "Beijing Municipality",
@@ -84,6 +96,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "BEIJING SHIN KONG PLACE 5F",
 		"City" : "Beijing",
 		"Province/State" : "Beijing Municipality",
@@ -91,6 +104,7 @@
 		"Continent" : "Asia"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "NEW YORK, MADISON",
 		"City" : "New York City",
 		"Province/State" : "New York",
@@ -98,6 +112,7 @@
 		"Continent" : "North America"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "SAN FRANCISCO, UNION SQUARE",
 		"City" : "San Francisco",
 		"Province/State" : "California",
@@ -105,6 +120,7 @@
 		"Continent" : "North America"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "LONDON BOND STREET",
 		"City" : "London",
 		"Province/State" : "Greater London",
@@ -112,6 +128,7 @@
 		"Continent" : "Europe"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "LONDON SLOANE STREET",
 		"City" : "London",
 		"Province/State" : "Greater London",
@@ -119,6 +136,7 @@
 		"Continent" : "Europe"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "PARIS MONTAIGNE",
 		"City" : "Paris",
 		"Province/State" : "Ile-de-France",
@@ -126,6 +144,7 @@
 		"Continent" : "Europe"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "PARIS FAUBOURG",
 		"City" : "Paris",
 		"Province/State" : "Ile-de-France",
@@ -133,6 +152,7 @@
 		"Continent" : "Europe"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "ROME VIA CONDOTTI",
 		"City" : "Rome",
 		"Province/State" : "Lazio",
@@ -140,6 +160,7 @@
 		"Continent" : "Europe"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "MONTE-CARLO ALLÉE FRANÇOIS BLANC",
 		"City" : "Monaco",
 		"Province/State" : "Monaco",
@@ -147,6 +168,7 @@
 		"Continent" : "Europe"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "GENEVE",
 		"City" : "Geneve",
 		"Province/State" : "Geneve",
@@ -154,6 +176,7 @@
 		"Continent" : "Europe"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "MILAN MONTENAPOLEONE",
 		"City" : "Milan",
 		"Province/State" : "Lombardia",
@@ -161,6 +184,7 @@
 		"Continent" : "Europe"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "ZURICH",
 		"City" : "Zurich",
 		"Province/State" : "Zurich",
@@ -168,10 +192,19 @@
 		"Continent" : "Europe"
 	},
 	{
+		"Customer" : "LoroPiana",
 		"Store" : "BARCELONA",
 		"City" : "Barcelona",
 		"Province/State" : "Catalonia",
 		"Country" : "Spain",
+		"Continent" : "Europe"
+	},
+	{
+		"Customer" : "Gucci",
+		"Store" : "Firenze Tornabuoni",
+		"City" : "Firenze",
+		"Province/State" : "Toscana",
+		"Country" : "Italy",
 		"Continent" : "Europe"
 	}
 ]
