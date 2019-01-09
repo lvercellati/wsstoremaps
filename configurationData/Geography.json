@@ -206,5 +206,13 @@
 		"Province/State" : "Toscana",
 		"Country" : "Italy",
 		"Continent" : "Europe"
+	},
+	{
+		"Customer" : "Wonderstore",
+		"Store" : "Booth CES 2019",
+		"City" : "Las Vegas",
+		"Province/State" : "Nevada",
+		"Country" : "United States",
+		"Continent" : "North America"
 	}
 ]
