@@ -6,5 +6,9 @@
 	{
 		"store" : "stlpcnhkg05",
 		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnhkg05.svg"
+	},
+	{
+		"store" : "btces2019",
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/btces2019.svg"
 	}
 ]
