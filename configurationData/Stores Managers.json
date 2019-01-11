@@ -1,0 +1,17 @@
+[
+	{
+		"User" : "Luigi Crudele",
+		"Email" : "lcrudele@wndrstr.onmicrosoft.com",
+		"Is Manager" : 0
+	},
+	{
+		"User" : "Rick van Kleij",
+		"Email" : "rvankleij@wndrstr.onmicrosoft.com",
+		"Is Manager" : 0
+	},
+	{
+		"User" : "Lorenzo Vercellati",
+		"Email" : "powerbi@wndrstr.onmicrosoft.com",
+		"Is Manager" : 1
+	}
+]
