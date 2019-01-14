@@ -1,0 +1,501 @@
+[
+	{
+		"Age" : 0,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 1,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 2,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 3,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 4,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 5,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 6,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 7,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 8,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 9,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 10,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 11,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 12,
+		"Age Group" : "0-18",
+		"Age Category" : "Child"
+	},
+	{
+		"Age" : 13,
+		"Age Group" : "0-18",
+		"Age Category" : "Teenager"
+	},
+	{
+		"Age" : 14,
+		"Age Group" : "0-18",
+		"Age Category" : "Teenager"
+	},
+	{
+		"Age" : 15,
+		"Age Group" : "0-18",
+		"Age Category" : "Teenager"
+	},
+	{
+		"Age" : 16,
+		"Age Group" : "0-18",
+		"Age Category" : "Teenager"
+	},
+	{
+		"Age" : 17,
+		"Age Group" : "0-18",
+		"Age Category" : "Teenager"
+	},
+	{
+		"Age" : 18,
+		"Age Group" : "0-18",
+		"Age Category" : "Teenager"
+	},
+	{
+		"Age" : 19,
+		"Age Group" : "19-24",
+		"Age Category" : "Teenager"
+	},
+	{
+		"Age" : 20,
+		"Age Group" : "19-24",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 21,
+		"Age Group" : "19-24",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 22,
+		"Age Group" : "19-24",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 23,
+		"Age Group" : "19-24",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 24,
+		"Age Group" : "19-24",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 25,
+		"Age Group" : "25-29",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 26,
+		"Age Group" : "25-29",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 27,
+		"Age Group" : "25-29",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 28,
+		"Age Group" : "25-29",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 29,
+		"Age Group" : "25-29",
+		"Age Category" : "Young"
+	},
+	{
+		"Age" : 30,
+		"Age Group" : "30-34",
+		"Age Category" : "Young adult"
+	},
+	{
+		"Age" : 31,
+		"Age Group" : "30-34",
+		"Age Category" : "Young adult"
+	},
+	{
+		"Age" : 32,
+		"Age Group" : "30-34",
+		"Age Category" : "Young adult"
+	},
+	{
+		"Age" : 33,
+		"Age Group" : "30-34",
+		"Age Category" : "Young adult"
+	},
+	{
+		"Age" : 34,
+		"Age Group" : "30-34",
+		"Age Category" : "Young adult"
+	},
+	{
+		"Age" : 35,
+		"Age Group" : "35-39",
+		"Age Category" : "Young adult"
+	},
+	{
+		"Age" : 36,
+		"Age Group" : "35-39",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 37,
+		"Age Group" : "35-39",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 38,
+		"Age Group" : "35-39",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 39,
+		"Age Group" : "35-39",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 40,
+		"Age Group" : "40-44",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 41,
+		"Age Group" : "40-44",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 42,
+		"Age Group" : "40-44",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 43,
+		"Age Group" : "40-44",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 44,
+		"Age Group" : "40-44",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 45,
+		"Age Group" : "45-49",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 46,
+		"Age Group" : "45-49",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 47,
+		"Age Group" : "45-49",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 48,
+		"Age Group" : "45-49",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 49,
+		"Age Group" : "45-49",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 50,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 51,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 52,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 53,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 54,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 55,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 56,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 57,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 58,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 59,
+		"Age Group" : "50-59",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 60,
+		"Age Group" : "60+",
+		"Age Category" : "Adult"
+	},
+	{
+		"Age" : 61,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 62,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 63,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 64,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 65,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 66,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 67,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 68,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 69,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 70,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 71,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 72,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 73,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 74,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 75,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 76,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 77,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 78,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 79,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 80,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 81,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 82,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 83,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 84,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 85,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 86,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 87,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 88,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 89,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 90,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 91,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 92,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 93,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 94,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 95,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 96,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 97,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 98,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	},
+	{
+		"Age" : 99,
+		"Age Group" : "60+",
+		"Age Category" : "Over"
+	}]
