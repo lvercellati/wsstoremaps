@@ -7,11 +7,16 @@
 	{
 		"User" : "Rick van Kleij",
 		"Email" : "rvankleij@wndrstr.onmicrosoft.com",
+		"Is Manager" : 1
+	},
+	{
+		"User" : "PowerBI Admin",
+		"Email" : "powerbi@wndrstr.onmicrosoft.com",
 		"Is Manager" : 0
 	},
 	{
 		"User" : "Lorenzo Vercellati",
-		"Email" : "powerbi@wndrstr.onmicrosoft.com",
+		"Email" : "SQIT-LVERCELLAT\LVercellati",
 		"Is Manager" : 0
 	}
 ]
