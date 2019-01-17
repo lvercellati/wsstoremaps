@@ -50,5 +50,45 @@
 	{
 		"User" : "LoroPiana Europe",
 		"Country" : "Spain"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "China"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "Hong Kong"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "Macau"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "United States"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "United Kingdom"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "France"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "Monaco"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "Italy"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "Switzerland"
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Country" : "Spain"
 	}
 ]
