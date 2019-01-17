@@ -13,5 +13,30 @@
 		"User" : "PowerBI Admin",
 		"Email" : "powerbi@wndrstr.onmicrosoft.com",
 		"Is Manager" : 0
+	},
+	{
+		"User" : "LoroPiana Global",
+		"Email" : "lp_global@wndrstr.onmicrosoft.com",
+		"Is Manager" : 1
+	},
+	{
+		"User" : "LoroPiana China",
+		"Email" : "lp_asia@wndrstr.onmicrosoft.com",
+		"Is Manager" : 0
+	},
+	{
+		"User" : "LoroPiana SouthAsia",
+		"Email" : "lp_southasia@wndrstr.onmicrosoft.com",
+		"Is Manager" : 0
+	},
+	{
+		"User" : "LoroPiana Europe",
+		"Email" : "lp_europe@wndrstr.onmicrosoft.com",
+		"Is Manager" : 0
+	},
+	{
+		"User" : "LoroPiana USA",
+		"Email" : "lp_us@wndrstr.onmicrosoft.com",
+		"Is Manager" : 0
 	}
 ]

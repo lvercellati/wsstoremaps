@@ -10,5 +10,45 @@
 	{
 		"User" : "Lorenzo Vercellati",
 		"Country" : "Italy"
+	},
+	{
+		"User" : "LoroPiana China",
+		"Country" : "China"
+	},
+	{
+		"User" : "LoroPiana SouthAsia",
+		"Country" : "Hong Kong"
+	},
+	{
+		"User" : "LoroPiana SouthAsia",
+		"Country" : "Macau"
+	},
+	{
+		"User" : "LoroPiana USA",
+		"Country" : "United States"
+	},
+	{
+		"User" : "LoroPiana Europe",
+		"Country" : "United Kingdom"
+	},
+	{
+		"User" : "LoroPiana Europe",
+		"Country" : "France"
+	},
+	{
+		"User" : "LoroPiana Europe",
+		"Country" : "Monaco"
+	},
+	{
+		"User" : "LoroPiana Europe",
+		"Country" : "Italy"
+	},
+	{
+		"User" : "LoroPiana Europe",
+		"Country" : "Switzerland"
+	},
+	{
+		"User" : "LoroPiana Europe",
+		"Country" : "Spain"
 	}
 ]
