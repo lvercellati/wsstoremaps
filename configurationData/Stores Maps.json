@@ -13,50 +13,50 @@
 	},
 	{
 		"store" : "btces2019",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
-	},
-	{
-		"store" : "stlpcnbjs01",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/btces2019.svg"
 	},
 	{
 		"store" : "stlpcnbjs02",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs02.svg"
 	},
 	{
 		"store" : "stlpcnhkg02",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnhkg02.svg"
 	},
 	{
 		"store" : "stlpcnhkg03",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnhkg03.svg"
 	},
 	{
 		"store" : "stlpcnhkg07",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnhkg07.svg"
 	},
 	{
 		"store" : "stlpcnmfm01",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnmfm01.svg"
 	},
 	{
 		"store" : "stlpcnmfm02",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnmfm02.svg"
 	},
 	{
 		"store" : "stlpcnsgh01",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnsgh01.svg"
 	},
 	{
 		"store" : "stlpcnsgh02",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnsgh02.svg"
 	},
 	{
 		"store" : "stlpusnyc01",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpusnyc01.svg"
 	},
 	{
 		"store" : "stlpussfo01",
-		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpcnbjs01.svg"
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stlpussfo01.svg"
+	},
+	{
+		"store" : "stggitflr01",
+		"map link" : "https://raw.githubusercontent.com/lvercellati/wsstoremaps/master/storeMaps/stggitflr01.svg"
 	}
 ]
