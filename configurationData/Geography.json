@@ -214,5 +214,13 @@
 		"Province/State" : "Nevada",
 		"Country" : "United States",
 		"Continent" : "North America"
+	},
+	{
+		"Customer" : "Wonderstore",
+		"Store" : "Arrow Booth Embedded World Hall 4 Booth 516",
+		"City" : "Nuremberg",
+		"Province/State" : "Bavaria",
+		"Country" : "Germany",
+		"Continent" : "Europe"
 	}
 ]
